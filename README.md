@@ -1,7 +1,7 @@
 # SwiftOnTheWay
 Swift 学习
 
-###The Swift Programming Language 中文版
+###The Swift Programming Language 中文
 http://wiki.jikexueyuan.com/project/swift/
 
 ###The Swift Programming Language 英文
