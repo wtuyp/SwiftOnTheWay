@@ -7,4 +7,5 @@ Swift 学习
  * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day)
  * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day)
  * [SwiftGuide](https://github.com/ipader/SwiftGuide)
+ * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
  
